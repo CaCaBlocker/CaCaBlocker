@@ -18,7 +18,7 @@ The new field in technology are giving me a new idea, and I'm going ahead.
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaCaBlocker&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaCaBlocker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 New challenges are waiting for me.  🙌🥇🥈🥉🏅🎖🏆
 
