@@ -4,6 +4,7 @@
 <h3>
 I'm a talented developer who is creative, self-motivated, and proactive, and I'm learning newer and newer skills now.
 The new field in technology are giving me a new idea, and I'm going ahead.
+🔥 New challenges are waiting for me. 👍
 </h3>
 
 ### 👨‍💻 Programming and markup languages
@@ -68,6 +69,3 @@ The new field in technology are giving me a new idea, and I'm going ahead.
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-<h2>
-🔥 New challenges are waiting for me. 👍
-</h2>
