@@ -1,11 +1,10 @@
 <h3>    
 👋 Hi
 </h3>
-<h3>
+<p>
 I'm a talented developer who is creative, self-motivated, and proactive, and I'm learning newer and newer skills now.
-The new field in technology are giving me a new idea, and I'm going ahead.
-🔥 New challenges are waiting for me. 👍
-</h3>
+The new field in technology are giving me a new idea, and I'm going ahead. <b>New challenges are waiting for me.</b>
+</p>
 
 ### 👨‍💻 Programming and markup languages
 
